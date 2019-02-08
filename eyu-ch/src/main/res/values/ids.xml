@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="native_ad_media_layout" />
+    <item type="id" name="native_ad_icon" />
+    <item type="id" name="native_ad_title" />
+    <item type="id" name="native_ad_desc" />
+    <item type="id" name="native_ad_choices_framelayout" />
+    <item type="id" name="native_ad_call_btn" />
+    <item type="id" name="native_ad_close_btn" />
+    <item type="id" name="native_ad_bg_layout" />
+</resources>

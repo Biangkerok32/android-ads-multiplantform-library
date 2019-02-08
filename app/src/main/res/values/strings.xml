@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eyu Library</string>
+    <string name="ad_failed_to_load">Failed loading advertisement</string>
+</resources>
